@@ -1,3 +1,6 @@
 # test-folder
 
-me
+test me
+
+kick me
+
