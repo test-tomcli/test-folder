@@ -9,8 +9,8 @@ area:
 # labels to be used with /kind command
 kind:
   - 'duplicate'
-  - 'good first issue'
-  - 'help wanted'
+  - 'good-first-issue'
+  - 'help-wanted'
   - 'testing'
   - 'invalid'
   - 'chore'
