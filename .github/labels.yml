@@ -1,0 +1,24 @@
+# labels to be used with /area command
+area:
+  - 'feature'
+  - 'enhancement'
+  - 'documentation'
+  - 'bug'
+  - 'tests'
+
+# labels to be used with /kind command
+kind:
+  - 'duplicate'
+  - 'good first issue'
+  - 'help wanted'
+  - 'testing'
+  - 'invalid'
+  - 'chore'
+  - 'question'
+
+# labels to be used with /priority command
+priority:
+  - 'low'
+  - 'mid'
+  - 'high'
+  - 'critical'
